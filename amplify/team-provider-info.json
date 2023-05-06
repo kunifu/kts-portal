@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "ktsportal3a8b4e76": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dp4m83lteuass",
+          "type": "cicd"
+        }
       }
     }
   }
