@@ -16,5 +16,8 @@
         "ktsportalac996822": {}
       }
     }
+  },
+  "ktsportal": {
+    "awscloudformation": {}
   }
 }

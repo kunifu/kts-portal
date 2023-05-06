@@ -1,4 +1,4 @@
 export enum Path {
   Index = "/",
-  Dashboard = "dashboard",
+  MyPage = "mypage",
 }
