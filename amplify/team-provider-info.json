@@ -1,23 +1,20 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-ktsportal-dev-134125-authRole",
-      "UnauthRoleArn": "arn:aws:iam::477196375491:role/amplify-ktsportal-dev-134125-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::477196375491:role/amplify-ktsportal-dev-134125-authRole",
+      "AuthRoleName": "amplify-ktsportal-dev-214110-authRole",
+      "UnauthRoleArn": "arn:aws:iam::477196375491:role/amplify-ktsportal-dev-214110-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::477196375491:role/amplify-ktsportal-dev-214110-authRole",
       "Region": "ap-northeast-1",
-      "DeploymentBucketName": "amplify-ktsportal-dev-134125-deployment",
-      "UnauthRoleName": "amplify-ktsportal-dev-134125-unauthRole",
-      "StackName": "amplify-ktsportal-dev-134125",
-      "StackId": "arn:aws:cloudformation:ap-northeast-1:477196375491:stack/amplify-ktsportal-dev-134125/439c80b0-ebc8-11ed-a961-063a6e7d620f",
-      "AmplifyAppId": "d3vm7qdbpfmhqx"
+      "DeploymentBucketName": "amplify-ktsportal-dev-214110-deployment",
+      "UnauthRoleName": "amplify-ktsportal-dev-214110-unauthRole",
+      "StackName": "amplify-ktsportal-dev-214110",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:477196375491:stack/amplify-ktsportal-dev-214110/4861fc90-ec0b-11ed-9ebb-0ad2deb1c099",
+      "AmplifyAppId": "dp4m83lteuass"
     },
     "categories": {
       "auth": {
-        "ktsportalac996822": {}
+        "ktsportal3a8b4e76": {}
       }
     }
-  },
-  "ktsportal": {
-    "awscloudformation": {}
   }
 }
